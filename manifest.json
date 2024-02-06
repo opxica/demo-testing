@@ -1,6 +1,6 @@
 {
-    "name": "owee",
-    "short_name": "owee",
+    "name": "modularuiwidgets",
+    "short_name": "modularuiwidgets",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -17,7 +17,7 @@
 - [MUI Outlined Button](https://sunny-cassata-dfe2d4.netlify.app/#/outlinedbutton)
 - [MUI Gradient Button](https://sunny-cassata-dfe2d4.netlify.app/#/gradientbutton)
 - [MUI Loading Button](https://sunny-cassata-dfe2d4.netlify.app/#/loadingbutton)
-- [MUI Secondary Outlined Button](https://sunny-cassata-dfe2d4.netlify.app/#/secondaryoutliedbutton)
+- [MUI Secondary Outlined Button](https://sunny-cassata-dfe2d4.netlify.app/#/secondaryoutlinedbutton)
 - [MUI Radio Button](https://sunny-cassata-dfe2d4.netlify.app/#/radiobutton)
 - [MUI Primary Block Level Button](https://sunny-cassata-dfe2d4.netlify.app/#/block/primarybutton)
 - [MUI Secondary Block Level Button](https://sunny-cassata-dfe2d4.netlify.app/#/block/secondarybutton)

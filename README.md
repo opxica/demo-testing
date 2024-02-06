@@ -4,7 +4,6 @@
 ### Cards
 - [MUI Simple Card](https://sunny-cassata-dfe2d4.netlify.app/#/simplecard)
 - [MUI Primary Card](https://sunny-cassata-dfe2d4.netlify.app/#/primarycard)
-- [MUI Profile Card](https://sunny-cassata-dfe2d4.netlify.app/#/profilecard)
 - [MUI SignIn Card](https://sunny-cassata-dfe2d4.netlify.app/#/signincard)
 - [MUI SignUp Card](https://sunny-cassata-dfe2d4.netlify.app/#/signupcard)
 - [MUI Profile Card](https://sunny-cassata-dfe2d4.netlify.app/#/profilecard)

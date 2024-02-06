@@ -54,10 +54,10 @@
 - [MUI Rating Bar](https://sunny-cassata-dfe2d4.netlify.app/#/ratingbar)
 
 ### Switch
-- [MUI Switch](https://sunny-cassata-dfe2d4.netlify.app/#/ratingbar)
+- [MUI Switch](https://sunny-cassata-dfe2d4.netlify.app/#/switch)
 
 ### Slider
-- [MUI Slider](https://sunny-cassata-dfe2d4.netlify.app/#/ratingbar)
+- [MUI Slider](https://sunny-cassata-dfe2d4.netlify.app/#/slider)
 
 ### Tabs
 - [MUI Tabbar](https://sunny-cassata-dfe2d4.netlify.app/#/tabbar)
